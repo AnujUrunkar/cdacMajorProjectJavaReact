@@ -3,11 +3,11 @@
 =>git clone < repolink  > 
 =>npm i
 **Before working on project use this command**
-->git pull origin main
+->git pull origin main/n
 
 **Common command for push the code in github**
-->git init
-->git status
+->git init/n
+->git status/n
 ->git add .
 ->git commit -m "first commit"
 ->git push origin main
